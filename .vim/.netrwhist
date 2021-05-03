@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/tyler/.zsh'
+let g:netrw_dirhist_5='/home/tyler/Downloads/InstagramAPK/smali_classes3/com/instagram/common/api/coroutine'
+let g:netrw_dirhist_4='/home/tyler/kde/src/log/2021-01-26-02/kxmlgui'
+let g:netrw_dirhist_3='/home/tyler/kde/src/log/2021-01-26-02'
+let g:netrw_dirhist_2='/home/tyler/.fzf'
+let g:netrw_dirhist_1='/media/0x02/Linux_Documents/Ocello/Confocal image collection/web (copy)'
